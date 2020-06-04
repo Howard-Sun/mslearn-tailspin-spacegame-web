@@ -1,5 +1,5 @@
 [![Build Status](https://dev.azure.com/HowardSun0106/AZDevOpsLearn/_apis/build/status/Howard-Sun.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/HowardSun0106/AZDevOpsLearn/_build/latest?definitionId=6&branchName=master)
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Howard-Sun_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Howard-Sun_mslearn-tailspin-spacegame-web)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
